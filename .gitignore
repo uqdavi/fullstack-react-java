@@ -1,0 +1,17 @@
+# Node
+node_modules
+dist
+
+# Java
+target
+*.class
+
+# IDE
+.vscode
+.idea
+
+# Sistema
+.DS_Store
+
+# Env
+.env
